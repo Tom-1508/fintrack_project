@@ -1,0 +1,99 @@
+Date,Details,Amount,Currency,Debit/Credit,Status,Category
+2025-04-19,Received from Anirban,100.0,INR,Credit,SETTLED,Uncategorized
+2025-04-19,Sent to Anirban,40.0,INR,Debit,SETTLED,shopping
+2025-04-14,Sent to Mahammad (Lunch),60.0,INR,Debit,SETTLED,shopping
+2025-04-14,Received from Anirban,100.0,INR,Credit,SETTLED,Uncategorized
+2025-04-13,Sent to Debarjun,45.0,INR,Debit,SETTLED,Travel
+2025-04-13,Sent to Himadri (Electricity),1072.0,INR,Debit,SETTLED,shopping
+2025-04-12,Received from Mousumi,150.0,INR,Credit,SETTLED,Uncategorized
+2025-04-12,Received from Rajor (Electricity),268.0,INR,Credit,SETTLED,Uncategorized
+2025-04-12,Sent to Anirban,8.0,INR,Debit,SETTLED,shopping
+2025-04-12,Received from Diptesh,327.0,INR,Credit,SETTLED,Uncategorized
+2025-04-11,Sent to Krishna (College Fees),550.0,INR,Debit,SETTLED,shopping
+2025-04-11,Received from Rima (Rent),450.0,INR,Credit,SETTLED,Uncategorized
+2025-04-10,Sent to Subha (Books & Stationery),78.0,INR,Debit,SETTLED,Travel
+2025-04-10,Received from Amitabh (Bonus),320.0,INR,Credit,SETTLED,Uncategorized
+2025-04-09,Sent to Soham (Medical),90.0,INR,Debit,SETTLED,Travel
+2025-04-09,Received from Shreya (Flight Refund),875.0,INR,Credit,SETTLED,Uncategorized
+2025-04-08,Sent to Pritam (Taxi App),120.0,INR,Debit,SETTLED,Travel
+2025-04-08,Received from Kousik (Bill Clearance),290.0,INR,Credit,SETTLED,Uncategorized
+2025-04-07,Sent to Nabanita (Zomato),215.0,INR,Debit,SETTLED,Travel
+2025-04-07,Received from Sohini (Salary),1050.0,INR,Credit,SETTLED,Uncategorized
+2025-04-06,Sent to Kaustav (Phone Repair),345.0,INR,Debit,SETTLED,Travel
+2025-04-06,Received from Paytm (Reward Refund),20.0,INR,Credit,SETTLED,Uncategorized
+2025-04-05,Sent to Ratul (Gym Membership),999.0,INR,Debit,SETTLED,Travel
+2025-04-05,Received from Prerna (Loan Payment),400.0,INR,Credit,SETTLED,Uncategorized
+2025-04-04,Sent to Deep (Amazon Order),199.0,INR,Debit,SETTLED,Uncategorized
+2025-04-04,Received from Pritha (Health Bonus),680.0,INR,Credit,SETTLED,Uncategorized
+2025-04-03,Sent to Rahul (Dominos Pizza),489.0,INR,Debit,SETTLED,Travel
+2025-04-03,Received from Ritwik (Scholarship),1500.0,INR,Credit,SETTLED,Uncategorized
+2025-04-02,Sent to Arnab (Phone Recharge),50.0,INR,Debit,SETTLED,Uncategorized
+2025-04-02,Received from Surya (Fund Transfer),75.0,INR,Credit,SETTLED,Uncategorized
+2025-04-01,LULU HYPERMARKET,1200.0,INR,Debit,SETTLED,shopping
+2025-04-01,CARD PAYMENT RECEIVED,500.0,INR,Credit,SETTLED,Uncategorized
+2025-04-01,EMIRATES INSURANCE,850.0,INR,Debit,SETTLED,Travel
+2025-04-01,ZOMATO ORDER,345.0,INR,Debit,SETTLED,Uncategorized
+2025-04-01,AMAZON ONLINE SHOPPING,990.0,INR,Debit,SETTLED,Travel
+2025-04-01,PAYTM CASHBACK,150.0,INR,Credit,SETTLED,Uncategorized
+2025-04-01,SUBSCRIPTION - NETFLIX,499.0,INR,Debit,SETTLED,Uncategorized
+2025-04-01,FLIGHT BOOKING INDIGO,6200.0,INR,Debit,SETTLED,Uncategorized
+2025-04-01,RENT RECEIVED,7500.0,INR,Credit,SETTLED,Uncategorized
+2025-04-01,RECHARGE - JIO,239.0,INR,Debit,SETTLED,shopping
+2025-03-31,CARD PAYMENT RECEIVED,200.0,INR,Credit,SETTLED,Uncategorized
+2025-03-31,GROCERY - SPENCERS,412.0,INR,Debit,SETTLED,Uncategorized
+2025-03-31,ELECTRICITY BILL,1100.0,INR,Debit,SETTLED,Travel
+2025-03-31,CREDIT FROM FRIEND,800.0,INR,Credit,SETTLED,Uncategorized
+2025-03-31,LULU HYPERMARKET,1675.0,INR,Debit,SETTLED,shopping
+2025-03-31,PAYMENT - SWIGGY,550.0,INR,Debit,SETTLED,Uncategorized
+2025-03-31,SALARY CREDIT,15000.0,INR,Credit,SETTLED,Uncategorized
+2025-03-30,ATM WITHDRAWAL,3000.0,INR,Debit,SETTLED,Uncategorized
+2025-03-30,PAYTM REFUND,500.0,INR,Credit,SETTLED,Uncategorized
+2025-03-30,CREDIT FROM PARENTS,2000.0,INR,Credit,SETTLED,Uncategorized
+2025-03-30,INSURANCE PREMIUM,900.0,INR,Debit,SETTLED,Uncategorized
+2025-03-30,ZOMATO ORDER,275.0,INR,Debit,SETTLED,Uncategorized
+2025-03-30,INTERNET BILL AIRTEL,999.0,INR,Debit,SETTLED,Uncategorized
+2025-03-29,BOOK PURCHASE AMAZON,1200.0,INR,Debit,SETTLED,Uncategorized
+2025-03-29,EMIRATES INSURANCE,1420.0,INR,Debit,SETTLED,Travel
+2025-03-29,PAYMENT FROM ROOMMATE,1500.0,INR,Credit,SETTLED,Uncategorized
+2025-03-29,PHARMACY PURCHASE,830.0,INR,Debit,SETTLED,Uncategorized
+2025-03-29,CARD PAYMENT RECEIVED,600.0,INR,Credit,SETTLED,Uncategorized
+2025-03-28,RECHARGE - VI,199.0,INR,Debit,SETTLED,Uncategorized
+2025-03-28,LULU HYPERMARKET,1050.0,INR,Debit,SETTLED,shopping
+2025-03-28,PAYTM REFUND,325.0,INR,Credit,SETTLED,Uncategorized
+2025-03-28,SUBSCRIPTION - SPOTIFY,129.0,INR,Debit,SETTLED,Uncategorized
+2025-03-28,DOMINO'S ORDER,455.0,INR,Debit,SETTLED,Uncategorized
+2025-03-28,CREDIT FROM OFFICE,5000.0,INR,Credit,SETTLED,Uncategorized
+2025-03-27,ELECTRICITY BILL,975.0,INR,Debit,SETTLED,Travel
+2025-03-27,CARD PAYMENT RECEIVED,430.0,INR,Credit,SETTLED,Uncategorized
+2025-03-27,CAB BOOKING OLA,340.0,INR,Debit,SETTLED,Uncategorized
+2025-03-27,AMAZON REFUND,899.0,INR,Credit,SETTLED,Uncategorized
+2025-03-27,INSURANCE - STAR HEALTH,1200.0,INR,Debit,SETTLED,Uncategorized
+2025-03-27,LULU HYPERMARKET,1345.0,INR,Debit,SETTLED,shopping
+2025-03-26,CREDIT FROM TIYASHA,400.0,INR,Credit,SETTLED,Uncategorized
+2025-03-26,PAYMENT - CAFE COFFEE DAY,310.0,INR,Debit,SETTLED,Uncategorized
+2025-03-26,PETROL - INDIAN OIL,1200.0,INR,Debit,SETTLED,Uncategorized
+2025-03-26,RENT RECEIVED,7500.0,INR,Credit,SETTLED,Uncategorized
+2025-03-26,MOVIE BOOKING - PVR,650.0,INR,Debit,SETTLED,Uncategorized
+2025-03-26,CARD PAYMENT RECEIVED,380.0,INR,Credit,SETTLED,Uncategorized
+2025-04-25,Received from Arindam (Salary),15000.0,INR,Credit,SETTLED,Uncategorized
+2025-04-25,Sent to Priyanka (Shopping),1200.0,INR,Debit,SETTLED,Uncategorized
+2025-04-24,Received from Rajesh (Loan Payment),800.0,INR,Credit,SETTLED,Uncategorized
+2025-04-24,Sent to Payal (Groceries),350.0,INR,Debit,SETTLED,Uncategorized
+2025-04-23,Received from Swati (Rent),5000.0,INR,Credit,SETTLED,Uncategorized
+2025-04-23,Sent to Radhika (Movie Tickets),600.0,INR,Debit,SETTLED,Uncategorized
+2025-04-22,Received from Neha (Birthday Gift),1000.0,INR,Credit,SETTLED,Uncategorized
+2025-04-22,Sent to Ankit (Fuel),1200.0,INR,Debit,SETTLED,Uncategorized
+2025-04-21,Received from Rahul (Grocery Refund),450.0,INR,Credit,SETTLED,Uncategorized
+2025-04-21,Sent to Jitendra (Dinner),850.0,INR,Debit,SETTLED,Uncategorized
+2025-04-20,Received from Sonal (Freelance Work),2500.0,INR,Credit,SETTLED,Uncategorized
+2025-04-20,Sent to Avinash (Travel Fund),1500.0,INR,Debit,SETTLED,Uncategorized
+2025-04-19,Received from Arvind (Birthday Refund),300.0,INR,Credit,SETTLED,Uncategorized
+2025-04-19,Sent to Meenal (Cafe),400.0,INR,Debit,SETTLED,Uncategorized
+2025-04-18,Received from Sandeep (Loan Payment),1200.0,INR,Credit,SETTLED,Uncategorized
+2025-04-18,Sent to Gaurav (Gift),600.0,INR,Debit,SETTLED,Uncategorized
+2025-04-17,Received from Kamal (Reimbursement),700.0,INR,Credit,SETTLED,Uncategorized
+2025-04-17,Sent to Seema (Online Subscription),500.0,INR,Debit,SETTLED,Uncategorized
+2025-04-16,Received from Liza (Movie Refund),400.0,INR,Credit,SETTLED,Uncategorized
+2025-04-16,Sent to Rishi (Donation),200.0,INR,Debit,SETTLED,Uncategorized
+2025-04-15,Received from Vishal (Consulting Fee),1500.0,INR,Credit,SETTLED,Uncategorized
+2025-04-15,Sent to Aditi (Books Purchase),750.0,INR,Debit,SETTLED,Uncategorized
