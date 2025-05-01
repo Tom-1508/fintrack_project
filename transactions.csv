@@ -1,31 +1,31 @@
 Date,Details,Amount,Currency,Debit/Credit,Status,Category
 2025-04-19,Received from Anirban,100.0,INR,Credit,SETTLED,Uncategorized
-2025-04-19,Sent to Anirban,40.0,INR,Debit,SETTLED,shopping
+2025-04-19,Sent to Anirban,40.0,INR,Debit,SETTLED,Travel
 2025-04-14,Sent to Mahammad (Lunch),60.0,INR,Debit,SETTLED,shopping
 2025-04-14,Received from Anirban,100.0,INR,Credit,SETTLED,Uncategorized
 2025-04-13,Sent to Debarjun,45.0,INR,Debit,SETTLED,Travel
-2025-04-13,Sent to Himadri (Electricity),1072.0,INR,Debit,SETTLED,shopping
+2025-04-13,Sent to Himadri (Electricity),1072.0,INR,Debit,SETTLED,Uncategorized
 2025-04-12,Received from Mousumi,150.0,INR,Credit,SETTLED,Uncategorized
 2025-04-12,Received from Rajor (Electricity),268.0,INR,Credit,SETTLED,Uncategorized
-2025-04-12,Sent to Anirban,8.0,INR,Debit,SETTLED,shopping
+2025-04-12,Sent to Anirban,8.0,INR,Debit,SETTLED,Travel
 2025-04-12,Received from Diptesh,327.0,INR,Credit,SETTLED,Uncategorized
-2025-04-11,Sent to Krishna (College Fees),550.0,INR,Debit,SETTLED,shopping
+2025-04-11,Sent to Krishna (College Fees),550.0,INR,Debit,SETTLED,walking
 2025-04-11,Received from Rima (Rent),450.0,INR,Credit,SETTLED,Uncategorized
 2025-04-10,Sent to Subha (Books & Stationery),78.0,INR,Debit,SETTLED,Travel
 2025-04-10,Received from Amitabh (Bonus),320.0,INR,Credit,SETTLED,Uncategorized
-2025-04-09,Sent to Soham (Medical),90.0,INR,Debit,SETTLED,Travel
+2025-04-09,Sent to Soham (Medical),90.0,INR,Debit,SETTLED,Uncategorized
 2025-04-09,Received from Shreya (Flight Refund),875.0,INR,Credit,SETTLED,Uncategorized
-2025-04-08,Sent to Pritam (Taxi App),120.0,INR,Debit,SETTLED,Travel
+2025-04-08,Sent to Pritam (Taxi App),120.0,INR,Debit,SETTLED,walking
 2025-04-08,Received from Kousik (Bill Clearance),290.0,INR,Credit,SETTLED,Uncategorized
-2025-04-07,Sent to Nabanita (Zomato),215.0,INR,Debit,SETTLED,Travel
+2025-04-07,Sent to Nabanita (Zomato),215.0,INR,Debit,SETTLED,Uncategorized
 2025-04-07,Received from Sohini (Salary),1050.0,INR,Credit,SETTLED,Uncategorized
-2025-04-06,Sent to Kaustav (Phone Repair),345.0,INR,Debit,SETTLED,Travel
+2025-04-06,Sent to Kaustav (Phone Repair),345.0,INR,Debit,SETTLED,Uncategorized
 2025-04-06,Received from Paytm (Reward Refund),20.0,INR,Credit,SETTLED,Uncategorized
-2025-04-05,Sent to Ratul (Gym Membership),999.0,INR,Debit,SETTLED,Travel
+2025-04-05,Sent to Ratul (Gym Membership),999.0,INR,Debit,SETTLED,Uncategorized
 2025-04-05,Received from Prerna (Loan Payment),400.0,INR,Credit,SETTLED,Uncategorized
 2025-04-04,Sent to Deep (Amazon Order),199.0,INR,Debit,SETTLED,Uncategorized
 2025-04-04,Received from Pritha (Health Bonus),680.0,INR,Credit,SETTLED,Uncategorized
-2025-04-03,Sent to Rahul (Dominos Pizza),489.0,INR,Debit,SETTLED,Travel
+2025-04-03,Sent to Rahul (Dominos Pizza),489.0,INR,Debit,SETTLED,Uncategorized
 2025-04-03,Received from Ritwik (Scholarship),1500.0,INR,Credit,SETTLED,Uncategorized
 2025-04-02,Sent to Arnab (Phone Recharge),50.0,INR,Debit,SETTLED,Uncategorized
 2025-04-02,Received from Surya (Fund Transfer),75.0,INR,Credit,SETTLED,Uncategorized
