@@ -1,4 +1,8 @@
 ```markdown
+
+🔗 **Live Demo**: [Click here to try the app](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
+
+
 # 💰 FinTrack - Personal Finance Tracker
 
 FinTrack is a simple and effective personal finance tracking web application built using **Python** and **Streamlit**. It allows users to upload transaction data via CSV files, automatically categorize expenses, analyze income/expenses, and visualize financial summaries with clean, interactive graphs.
