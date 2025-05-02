@@ -75,23 +75,29 @@ def clean_dataframe(df):
     """Clean and prepare the dataframe"""
     if df is None:
         return None
-        
+
     # Convert Amount to numeric
     df["Amount"] = pd.to_numeric(df["Amount"], errors="coerce")
-    
+
     # Drop rows with invalid amounts
     df = df.dropna(subset=["Amount"])
-    
+
+    # Determine Debit/Credit based on sign
+    df["Debit/Credit"] = df["Amount"].apply(lambda x: "Debit" if x < 0 else "Credit")
+
+    # Make Amounts positive for consistent processing
+    df["Amount"] = df["Amount"].abs()
+
     # Ensure Date is datetime
     df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
-    
+
     # Drop rows with invalid dates
     df = df.dropna(subset=["Date"])
-    
+
     # Ensure Category column exists
     if "Category" not in df.columns:
         df["Category"] = "Uncategorized"
-    
+
     return df
 
 def load_transactions(file):
