@@ -1,125 +1,91 @@
-```markdown
-
+````markdown
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
 
-# 💰 FinTrack - Personal Finance Tracker
+# 💰 FinTrack - Personal Finance Tracker  
 
-FinTrack is a simple and effective personal finance tracking web application built using **Python** and **Streamlit**. It allows users to upload transaction data via CSV files, automatically categorize expenses, analyze income/expenses, and visualize financial summaries with clean, interactive graphs.
-
----
-
-## 🚀 Features
-
-- 📂 **CSV Upload** – Upload transaction files (bank statements or custom format)
-- 🔍 **Auto-Categorization** – Categorizes transactions based on keywords
-- 🧠 **Keyword Mapping** – Users can map keywords to categories for better accuracy
-- 📊 **Visualizations** – Pie charts and bar graphs of income vs. expenses
-- 📅 **Date-wise Summary** – Monthly summaries of credits and debits
-- 🔄 **Reset & Re-analyze** – Easily clear data and reprocess as needed
+**FinTrack** is a simple and effective personal finance tracking web application built using **Python** and **Streamlit**.  
+It allows users to upload transaction data via CSV files, automatically categorize expenses, analyze income/expenses, and visualize financial summaries with clean, interactive graphs.  
 
 ---
 
-## 🖥️ Tech Stack
+## 🚀 Features  
 
-- **Python**
-- **Streamlit** (Web App Framework)
-- **Pandas** (Data Analysis)
-- **Matplotlib / Altair** (Visualizations)
-- **Regex** (Keyword Matching)
+- 📂 **CSV Upload** – Import bank statements or custom transaction files  
+- 🔍 **Auto-Categorization** – Smart categorization of transactions using keyword matching  
+- 🧠 **Keyword Mapping** – Customize categories by mapping your own keywords  
+- 📊 **Visual Insights** – Interactive pie charts, bar graphs, and trend analysis  
+- 📅 **Monthly Summary** – Get clear monthly breakdowns of income and expenses  
+- 🔄 **Reset & Re-Analyze** – Start fresh anytime with a single click  
 
 ---
 
-## 📸 Screenshots
+## 🖥️ Tech Stack  
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+- 🐍 **Python**  
+- 🎈 **Streamlit** (Web App Framework)  
+- 🗂️ **Pandas** (Data Analysis)  
+- 📉 **Matplotlib / Altair** (Data Visualization)  
+- ✨ **Regex** (Keyword Matching)  
+
 ---
 
-## 📁 Folder Structure
+## 📸 Screenshots  
+
+| Dashboard | Expense Breakdown | Category Mapping |
+|-----------|------------------|------------------|
+| ![Dashboard](image.png) | ![Breakdown](image-1.png) | ![Mapping](image-2.png) |
+
+| Upload CSV | Monthly Summary |
+|------------|-----------------|
+| ![Upload](image-3.png) | ![Summary](image-4.png) |
+
+---
+
+## 📁 Project Structure  
 
 ```bash
 fintrack_project/
-├── app.py                # Main Streamlit app
+├── app.py                # Main Streamlit application
 ├── data/                 # (Optional) Sample CSV files
 ├── requirements.txt      # Required Python packages
 └── README.md             # Project documentation
-```
+````
 
 ---
 
-## 📦 Installation
+## 🚀 Getting Started
 
-### Step 1: Clone the repository
+### 1️⃣ Clone the Repository
+
 ```bash
-git clone https://github.com/Tom-1508/fintrack_project.git
+git clone https://github.com/your-username/fintrack_project.git
 cd fintrack_project
 ```
 
-### Step 2: Create and activate a virtual environment (optional but recommended)
-```bash
-python -m venv venv
-# Windows:
-venv\Scripts\activate
-# macOS/Linux:
-source venv/bin/activate
-```
+### 2️⃣ Install Dependencies
 
-### Step 3: Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
-## ▶️ Run the App
+### 3️⃣ Run the App
 
 ```bash
 streamlit run app.py
 ```
 
-The app will open in your default browser at `http://localhost:8501`.
+---
+
+## 🌐 Live Demo
+
+You can try FinTrack here:
+👉 [**Open FinTrack on Streamlit**](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
 
 ---
 
-## 🧪 Sample CSV Format
+## 👨‍💻 Author
 
-Your CSV file should include at least the following columns:
-
-- **Date**
-- **Description**
-- **Amount** (positive for credit, negative for debit)
-
-Example:
-```csv
-Date,Description,Amount
-2024-12-01,Coffee Shop,-150
-2024-12-01,Salary,20000
-2024-12-02,Amazon Purchase,-999
-```
+**Tamal Majumdar**
+📧 [tamalcrj2002@gmail.com](mailto:tamalcrj2002@gmail.com)
 
 ---
-
-## 🧠 Future Improvements
-
-- User authentication
-- Persistent keyword mapping
-- Export analyzed data to CSV
-- Enhanced analytics with filters
-
----
-
-## 🙌 Acknowledgements
-
-- Built with love by [Tamal Majumdar](https://github.com/Tom-1508)
-- Powered by Streamlit and Pandas
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
-```
