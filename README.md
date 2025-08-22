@@ -1,4 +1,3 @@
-````markdown
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
 
 # 💰 FinTrack - Personal Finance Tracker  
@@ -38,54 +37,5 @@ It allows users to upload transaction data via CSV files, automatically categori
 | Upload CSV | Monthly Summary |
 |------------|-----------------|
 | ![Upload](image-3.png) | ![Summary](image-4.png) |
-
----
-
-## 📁 Project Structure  
-
-```bash
-fintrack_project/
-├── app.py                # Main Streamlit application
-├── data/                 # (Optional) Sample CSV files
-├── requirements.txt      # Required Python packages
-└── README.md             # Project documentation
-````
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/fintrack_project.git
-cd fintrack_project
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the App
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🌐 Live Demo
-
-You can try FinTrack here:
-👉 [**Open FinTrack on Streamlit**](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
-
----
-
-## 👨‍💻 Author
-
-**Tamal Majumdar**
-📧 [tamalcrj2002@gmail.com](mailto:tamalcrj2002@gmail.com)
 
 ---
