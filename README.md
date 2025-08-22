@@ -1,6 +1,7 @@
 ```markdown
 
-🔗 **Live Demo**: [Click here to try the app](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
+🔗 **Live Demo**: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintrackproject-77ustmp2brihre5gzgpxsr.streamlit.app/)
+
 
 
 # 💰 FinTrack - Personal Finance Tracker
