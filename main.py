@@ -82,8 +82,8 @@ def clean_dataframe(df):
     # Drop rows with invalid amounts
     df = df.dropna(subset=["Amount"])
 
-    # Determine Debit/Credit based on sign
-    df["Debit/Credit"] = df["Amount"].apply(lambda x: "Debit" if x < 0 else "Credit")
+    # ✅ Use Debit/Credit column from CSV (normalize case/spaces)
+    df["Debit/Credit"] = df["Debit/Credit"].astype(str).str.strip().str.capitalize()
 
     # Make Amounts positive for consistent processing
     df["Amount"] = df["Amount"].abs()
