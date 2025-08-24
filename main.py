@@ -98,6 +98,7 @@ def clean_dataframe(df):
     if "Category" not in df.columns:
         df["Category"] = "Uncategorized"
 
+    
     return df
 
 def load_transactions(file):
