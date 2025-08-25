@@ -85,9 +85,6 @@ def clean_dataframe(df):
     # ✅ Use Debit/Credit column from CSV (normalize case/spaces)
     df["Debit/Credit"] = df["Debit/Credit"].astype(str).str.strip().str.capitalize()
 
-    # Make Amounts positive for consistent processing
-    df["Amount"] = df["Amount"].abs()
-
     # Ensure Date is datetime
     df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
 
@@ -98,7 +95,6 @@ def clean_dataframe(df):
     if "Category" not in df.columns:
         df["Category"] = "Uncategorized"
 
-    
     return df
 
 def load_transactions(file):
