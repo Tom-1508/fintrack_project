@@ -97,6 +97,7 @@ def clean_dataframe(df):
 
     return df
 
+
 def load_transactions(file):
     """Load and process transactions from uploaded file"""
     try:
